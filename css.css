@@ -1,0 +1,319 @@
+#one {
+	float: left;
+	margin: 0px 20px;
+	height: 115px;
+	width: 660px;
+	position: absolute;
+		top: 0%;
+		left: 3%;
+	font: 36pt Sans-serif;
+}
+#two {
+	float: right;
+	margin: 0px 30px;
+	height: 115px;
+	width: 300px;
+	text-align: right;
+	position: absolute;
+		top: 3%;
+		left: 75%;
+	font: 12pt Sans-serif;
+}
+#three {
+	height: 115px; 
+}
+#text1 {
+	position: absolute;
+		top: 1300px;
+		left: 70px;
+	width: 67%;
+	font-size: 32px;
+}
+#text2 {
+	position: absolute;
+		top: 230px;
+		left: 500px;
+	width: 900px;
+	font-family: Arial;
+	font-size: 24px;
+}
+#text3 {
+	position: absolute;
+		top: 625px;
+		left: 70px;
+	width: 90%;
+	font-family: Arial;
+	font-size: 24px;
+}
+#text4 {
+	position: absolute;
+		top: 860px;
+		left: 70px;
+	width: 90%;
+	font-family: Arial;
+	font-size: 24px;
+}
+#img1 {
+	position: absolute;
+		top: 190px;
+		left: 74%;
+}
+#img2 {
+	position: absolute;
+		top: 230px;
+		left: 70px;
+}
+
+
+
+
+#img3 {
+	position: absolute;
+		top: 230px;
+		left: 70px;
+	width: 200px;
+	height: 200px;
+	border-radius: 10%;
+}
+#text5 {
+	position: absolute;
+		top: 210px;
+		left: 280px;
+	width: 45%;
+}
+#textt5 {
+	position: absolute;
+		top: 420px;
+		left: 70px;
+	font-size: 20pt;
+	width: 60%;
+}
+#img4 {
+	position: absolute;
+		top: 815px;
+		left: 70px;
+	width: 200px;
+	height: 200px;
+	border-radius: 10%;
+}
+#text6 {
+	position: absolute;
+		top: 795px;
+		left: 280px;
+	width: 45%;
+}
+#textt6 {
+	position: absolute;
+		top: 1000px;
+		left: 70px;
+	font-size: 20pt;
+	width: 60%;
+}
+
+
+
+
+#kr {
+	text-indent: 25px;
+	margin: 5px;
+}
+#kr2 {
+	text-indent: 25px;
+	margin: 0px 0px 550px 0px;
+}
+#hr1 {
+	position: absolute;
+		top: 115px;
+		left: 0px;
+	width: 98%;
+}
+
+
+
+.butt {
+	border: 3px solid #000;
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	background-color: white;
+}
+.dws {
+	border-
+}
+.dws1 {
+	position: absolute;
+		top: 160px;
+		left: 60px;
+}
+.dws2 {
+	position: absolute;
+		top: 160px;
+		left: 200px;
+}
+.dws3 {
+	position: absolute;
+		top: 160px;
+		left: 380px;
+}
+
+
+
+
+
+.review {
+	width: 395px;
+	position: absolute;
+		top: 770px;
+		left: 74%;
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 16px 0;
+}
+.review img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+.review2 {
+	width: 395px;
+	position: absolute;
+		top: 940px;
+		left: 74%;
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 16px 0;
+}
+.review2 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+.review3 {
+	width: 395px;
+	position: absolute;
+		top: 1110px;
+		left: 74%;
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 16px 0;
+}
+.review3 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+.review4 {
+	width: 395px;
+	position: absolute;
+		top: 1280px;
+		left: 74%;
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 16px 0;
+}
+.review4 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 20%;
+}
+.Kaz {
+	font-weight: bold;
+	font-size: 36pt;
+}
+
+
+
+
+
+
+
+
+a {
+	text-decoration: none;
+	link: purple;
+	active: blue;
+}
+hr {
+	text-align: center;
+	margin: 20px;
+	border: none;
+	background-color: black;
+	color: black;
+	height: 3px;
+}
+div {
+	border: 0px solid #000;
+}
+body {
+	background-color: #ccffff;
+	background-size: 70%;
+	background-repeat: repeat;
+}
+
+
+
+
+
+#table1 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 250px;
+		left: 60px;
+	
+}
+#table2 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 250px;
+		left: 400px;
+	
+}
+#table3 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 250px;
+		left: 740px;
+	
+}
+#table4 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 250px;
+		left: 1080px;
+	
+}
+#table5 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 830px;
+		left: 740px;
+	
+}
+#table6 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 830px;
+		left: 1080px;
+	
+}
+#table7{
+	border: 1px solid #000;
+	position: absolute;
+		top: 830px;
+		left: 60px;
+	
+}
+#table8 {
+	border: 1px solid #000;
+	position: absolute;
+		top: 830px;
+		left: 400px;
+}
